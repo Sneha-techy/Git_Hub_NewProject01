@@ -4,4 +4,11 @@
   <artifactId>git_hubproject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>Git_HubProjectPractise</name>
+  <dependencies>
+  	<dependency>
+  		<groupId>com.qspider</groupId>
+  		<artifactId>SimpleMaven_10</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  </dependencies>
 </project>
